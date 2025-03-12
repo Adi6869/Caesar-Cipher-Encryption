@@ -2,7 +2,7 @@
 
 # Caesar Cipher Encryption Tool
 
-This project is a simple Caesar Cipher encryption and decryption tool with both command-line and GUI implementations using Python and Tkinter.
+This project is a simple Caesar Cipher encryption and decryption tool with GUI implementations using Python and Tkinter.
 
 ## Features
 - Encrypt and decrypt text using the Caesar Cipher algorithm.
@@ -19,14 +19,6 @@ This project is a simple Caesar Cipher encryption and decryption tool with both 
 3. Install dependencies (if any, Tkinter is included with Python by default).
 
 ## Usage
-
-### Command-line Version
-Run the `caesar_cipher_encryption.py` script:
-```sh
-python caesar_cipher_encryption.py
-```
-
-### GUI Version
 Run the `gui.py` script:
 ```sh
 python gui.py
@@ -57,14 +49,7 @@ Output: KHOOR
 Input:  KHOOR
 Shift:  3
 Output: HELLO
-```
+``
 
-## Contributing
-Feel free to fork this repository and submit pull requests for improvements!
 
-## License
-This project is licensed under the MIT License.
-
----
-**Author**: Your Name
 
