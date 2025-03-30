@@ -7,21 +7,6 @@ This project is a simple Caesar Cipher encryption and decryption tool with GUI i
 - Simple command-line implementation (`caesar_cipher_encryption.py`).
 - User-friendly GUI implementation (`gui.py`) built with Tkinter.
 
-## Installation
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/caesar-cipher-tool.git
-   cd caesar-cipher-tool
-   ```
-2. Ensure you have Python installed (Python 3.x recommended).
-3. Install dependencies (if any, Tkinter is included with Python by default).
-
-## Usage
-Run the `gui.py` script:
-```sh
-python gui.py
-```
-
 ## File Structure
 ```
 caesar-cipher-tool/
