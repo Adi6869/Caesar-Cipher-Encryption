@@ -1,5 +1,3 @@
-# Caesar-Cipher-Encryption
-
 # Caesar Cipher Encryption Tool
 
 This project is a simple Caesar Cipher encryption and decryption tool with GUI implementations using Python and Tkinter.
