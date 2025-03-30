@@ -7,14 +7,6 @@ This project is a simple Caesar Cipher encryption and decryption tool with GUI i
 - Simple command-line implementation (`caesar_cipher_encryption.py`).
 - User-friendly GUI implementation (`gui.py`) built with Tkinter.
 
-## File Structure
-```
-caesar-cipher-tool/
-│── caesar_cipher_encryption.py  # Core logic for encryption and decryption
-│── gui.py  # Tkinter-based GUI for easy use
-│── README.md  # Project documentation
-```
-
 ## How It Works
 - The program takes a text input and a shift value.
 - It shifts each letter in the input text forward (encryption) or backward (decryption) by the specified shift value.
